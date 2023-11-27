@@ -1,0 +1,7 @@
+print("#####################################################")
+print("# Bienvenido al IES Jacarandá!!:                    #")
+print("     1.  Alumnos que han entrado:")
+print("     2.  Alumnos que han abandonado el centro:")
+print("     3.  Alumnos en el IES:")
+print("     4.  Salir")
+print("#####################################################")
